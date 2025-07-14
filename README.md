@@ -14,7 +14,7 @@ It allows users to add, delete, and manage their daily tasks easily.
 - ✅ Add new tasks
 - ✅ Delete tasks
 - ✅ Responsive UI
-- ✅ Single Page App with React Router (if used)
+- ✅ Single Page App with React Router
 - ✅ Hosted on Netlify with Continuous Deployment
 
 ---
